@@ -10,5 +10,6 @@ namespace GestionClientes
     {
         public int idHija { get; set; }
         public string surname { get; set; }
+        public DateTime fechaNacimiento { get; set; }   
     }
 }
